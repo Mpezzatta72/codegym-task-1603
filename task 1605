@@ -1,0 +1,30 @@
+package en.codegym.task.jdk13.task16.task1605;
+
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.net.URISyntaxException;
+
+/* 
+Throwing exceptions
+*/
+
+public class Solution {
+
+    public void method1()throws ClassNotFoundException {
+         
+
+    }
+
+    public void method2() throws InterruptedException {
+
+
+    }
+
+    public void method3()throws ArithmeticException {
+
+    }
+
+    public void method4()throws NullPointerException {
+
+    }
+}
